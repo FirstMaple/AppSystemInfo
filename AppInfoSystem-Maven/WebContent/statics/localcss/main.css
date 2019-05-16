@@ -1,0 +1,36 @@
+#main{
+	width:248px;
+	margin:0px;
+	padding:0px;
+}
+.top_nav{
+	position: absolute;
+	margin:0px;
+	padding:0px;
+	right:0px;
+	width:1304px;
+}
+.right_col{
+	 position: absolute;
+	 right:0px;
+	 margin:0px;
+	 padding:0px;
+	 top:57px;
+	 width:1304px;
+	 height:620px;
+	 background-color:#F7F7F7;
+}
+.pull-right{
+	 position: absolute;
+	 right:0px;
+	 margin:0px;
+	 padding:0px;
+	 top:672px;
+	 width:1304px;
+	 height:60px;
+	 background-color:white;
+}
+.pull-right{
+	text-align:right;
+	padding:25px;
+}

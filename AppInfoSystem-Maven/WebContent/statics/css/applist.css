@@ -1,0 +1,54 @@
+table.altrowstable {
+			font-family: verdana,arial,sans-serif;
+			font-size:11px;
+			color:#333333;
+			border-width: 1px;
+			border-color: #a9c6c9;
+			border-collapse: collapse;
+			background-color:white;
+			height:200px;
+			margin:0px auto;
+		}
+		table.altrowstable th {
+			border-width: 1px;
+			padding: 8px;
+			border-style: solid;
+			border-color: #black;
+		}
+		table.altrowstable td {
+			border-width: 1px;
+			padding: 8px;
+			border-style: solid;
+			border-color: #black;
+		}
+		.oddrowcolor{
+			background-color:#white;
+		}
+		.evenrowcolor{
+			background-color:#F7F7F7;
+		}
+		
+		.right_col{
+			height:683px;
+		}
+		.select{
+			background-color:white;
+			height:200px;
+			margin:70px 0px 20px 0px;
+		}
+		.list{
+			background-color:white;
+			paddin:50px;
+			height:300px;
+		}
+		.altrowstable{
+			margin:10px auto;
+		}
+		.selecttable td{
+			width:350px;
+		}
+		
+		.page{
+			padding:0px 0px 0px 1050px;
+		}
+		
